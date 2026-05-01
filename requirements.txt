@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 opencv-python
 mediapipe
 numpy
+=======
+opencv-python==4.13.0.92
+mediapipe==0.10.30
+numpy==2.4.4
+>>>>>>> 2007d6a2a518e5d1583ca97beb60cc6db93bacee
